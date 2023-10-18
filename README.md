@@ -1,4 +1,4 @@
-# meu_portfolio
+# Dungeons & Mania (primeiro portofolio)
 meu_portofolio do cruso de front end
 Rápida descrição do objetivo de fazer esse projeto
 
@@ -13,4 +13,5 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+pretendo transforma isso no meu primeiro projeto, quis começa pro algo que eu gosto
+"em questao de cores, fonte e organização ainda estou testando"
