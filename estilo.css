@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+strong{
+    color:#260101;
+    text-shadow: 23x;
+}
+.principal {
+text-align: center;
+margin: 0%;
+  
+}
+.lista01{
+    text-align: center;
+}
+.apresentaçao__botao{   
+    list-style-position:inside; /*a tag list-style-position : serve para posiciona a litsa*/
+margin: 0%;
+width: auto;
+list-style:none; /* a tag lis-style: serve para escolhe o estilo da lista*/
+text-decoration: none;
+background-color:#41BFB3;
+border-radius: 5px 0;
+color: black;
+border-top: #260101;
+
+text-decoration: none;
+} 
+
+.apresentaçao__link{
+    display: flex;
+    justify-content: space-evenly;
+}
+.titulo__principal{
+    text-align: center;
+}
+
+.DM{   
+    color: black;
+    font-size: 15px;
+ 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.intro{
+    text-align: center;
+}
+.texto{
+    text-align: center;
+}
+ body{
+    font-family: 'Young Serif', serif;
+    background-color:#9BF2EA;
+
+ }
